@@ -6,7 +6,7 @@
 ``` shell script
 apt update
 apt install git curl -y
-git clone git://github.com/DetaSploit/iPTrack.git
+git clone https://github.com/DetaSploit/iPTrack
 cd iPTrack
 bash iptrack
 ```
