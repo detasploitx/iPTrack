@@ -1,5 +1,5 @@
 <h3><p align="center">iPTrack</p></h3>
-<p align="center">Simple iP Address Tracker Tool<br/>―――― MD Asif Hasan ――――</p>
+<p align="center">Simple iP Address Tracker Tool<br/></p>
 
 ### Installation :
 
